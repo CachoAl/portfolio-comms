@@ -11,3 +11,5 @@ Load your AR export as a CSV, and the tool instantly reads your portfolio, assig
 In Step 4, you open your Email , hit Compose/Create, and copy-paste each field — recipient, CC, subject (name of the account with Month & year), and body — directly from the tool. The formatted table pastes into your mail with full formatting intact.
 
 No subscriptions. No integrations, No APIs, No data leaves your browser. Just a faster, more organized way to get your monthly communications done.
+
+<img width="938" height="908" alt="AR comms" src="https://github.com/user-attachments/assets/fafcdc94-cb01-46b2-a7b7-24a43ff2ea86" />
